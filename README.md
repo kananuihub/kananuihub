@@ -12,7 +12,7 @@ I combine UI/UX design, AI tools, and video editing to build impactful visuals a
 - Video Editing  
 
 ## 🧰 Tools & Technologies  
-- Figma 🔥  
+- Figma  
 - Adobe Premiere Pro  
 - After Effects  
 - VS Code  
@@ -26,13 +26,13 @@ I combine UI/UX design, AI tools, and video editing to build impactful visuals a
 - Canva AI  
 - Adobe Firefly  
 
-## 🎬 Video Editing  
+## 🎬 Video Editing & Content Creation  
 - Reels & Short-form Content  
-- Social Media Ads  
+- Social Media Posts & Ads  
 
 ## 💡 What I Do  
 - Design clean and modern interfaces  
-- Create AI-powered content (reels, ads, visuals)  
+- Create AI-powered content (reels, posts, ads)  
 - Edit engaging videos  
 - Build responsive websites  
 
