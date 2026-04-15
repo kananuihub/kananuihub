@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Kanan 👋  
 
-<!--
-**kananuihub/kananuihub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎨 AI Content Creator | UI/UX Designer | 🎬 Video Editor  
 
-Here are some ideas to get you started:
+I create modern, user-centered digital experiences and engaging content.  
+I combine UI/UX design, AI tools, and video editing to build impactful visuals and products 🚀  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills  
+- UI/UX Design  
+- HTML & CSS  
+- Responsive Design  
+- Video Editing  
+
+## 🧰 Tools & Technologies  
+- Figma 🔥  
+- Adobe Premiere Pro  
+- After Effects  
+- VS Code  
+- Bootstrap  
+
+## 🤖 AI Tools  
+- ChatGPT  
+- Midjourney  
+- Runway ML  
+- ElevenLabs  
+- Canva AI  
+- Adobe Firefly  
+
+## 🎬 Video Editing  
+- Reels & Short-form Content  
+- Social Media Ads  
+
+## 💡 What I Do  
+- Design clean and modern interfaces  
+- Create AI-powered content (reels, ads, visuals)  
+- Edit engaging videos  
+- Build responsive websites  
+
+## ✨ Goal  
+To create unique, modern and impactful digital experiences using AI + Design + Content.
